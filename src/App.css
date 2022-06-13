@@ -24,6 +24,15 @@
   color: white;
 }
 
+body{
+  background-color: aqua;
+}
+.btn{
+  box-sizing: content-box;
+  color: black;
+  background-color: red;
+
+}
 .App-link {
   color: #61dafb;
 }
